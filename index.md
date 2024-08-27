@@ -4,11 +4,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Test Title
 
-## Test Subtitle
+# Austin's First CS193 Homework
 
-### Test 3rd Subtitle
+- I like that this class teaches us about GitHub
+- I like learning about command prompt
+- I like the hands on learning
 
 ### Markdown
 
@@ -30,9 +31,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-# Test Header 1
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
